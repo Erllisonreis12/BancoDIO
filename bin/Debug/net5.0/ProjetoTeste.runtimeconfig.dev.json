@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Infortread\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Infortread\\.nuget\\packages"
+    ]
+  }
+}
