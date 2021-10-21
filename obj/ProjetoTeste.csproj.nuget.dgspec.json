@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Infortread\\Desktop\\ProjetoTeste\\ProjetoTeste.csproj": {}
+    "C:\\Users\\Infortread\\Documents\\GitHub\\BancoDIO\\ProjetoTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Infortread\\Desktop\\ProjetoTeste\\ProjetoTeste.csproj": {
+    "C:\\Users\\Infortread\\Documents\\GitHub\\BancoDIO\\ProjetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Infortread\\Desktop\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectUniqueName": "C:\\Users\\Infortread\\Documents\\GitHub\\BancoDIO\\ProjetoTeste.csproj",
         "projectName": "ProjetoTeste",
-        "projectPath": "C:\\Users\\Infortread\\Desktop\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectPath": "C:\\Users\\Infortread\\Documents\\GitHub\\BancoDIO\\ProjetoTeste.csproj",
         "packagesPath": "C:\\Users\\Infortread\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Infortread\\Desktop\\ProjetoTeste\\obj\\",
+        "outputPath": "C:\\Users\\Infortread\\Documents\\GitHub\\BancoDIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Infortread\\AppData\\Roaming\\NuGet\\NuGet.Config"
